@@ -1,3 +1,4 @@
+# This code was built with python2 version
 from flask import Flask, abort, request
 
 app = Flask(__name__)
